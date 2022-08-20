@@ -77,4 +77,4 @@ elif action == 'дешифр' and language == 'рус':
     print('Результат:')
     print(ru_decode(step, text))
 
-print(input('Для завершения работы введите любое значение'))
+print(input('Для завершения работы введите любое значение \n'))
